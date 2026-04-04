@@ -1,0 +1,6 @@
+2FP_MAGUS/
+MyFirstKeyPair.pem
+*.pem
+raw/
+download_results.sh
+*/gtdb_r226_taxmap.tsv
